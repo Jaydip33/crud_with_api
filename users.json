@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "salary": "12000",
+      "mobile": "9887766554",
+      "password": "0998877665",
+      "file": "C:\\fakepath\\download.png",
+      "city": "India",
+      "gender": "female",
+      "id": 1
+    }
+  ]
+}

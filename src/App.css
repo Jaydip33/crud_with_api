@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+  padding: 20px;
+}
+
+.page-link {
+  margin: 10px;
+}
+
+.card-item {
+  display: inline-flex;
+  justify-content: center;
+  margin: 20px;
+}
